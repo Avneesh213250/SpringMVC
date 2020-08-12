@@ -8,7 +8,7 @@
 	<h3>Spring MVC user registration and login example using JdbcTemplate + MySQL</h3>
 
 
-	<form action="login" method="post">
+	<form action="login" method="post" >
 		<pre>
 		 <strong>Login Here | <a href="registration.jsp">Click here to Register</a></strong>
 		
